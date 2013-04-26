@@ -1,0 +1,54 @@
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\bin\Release\DotNetBench.exe
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\bin\Release\DotNetBench.pdb
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.exe
+U:\My Documents\Visual Studio 2008\Projects\DotNetBench\DotNetBench\obj\Release\DotNetBench.pdb
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.exe
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.pdb
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\bin\Release\DotNetBench.exe
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\bin\Release\DotNetBench.pdb
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+U:\My Documents\Programming\C#\DotNetBench\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.exe
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.pdb
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.exe
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.pdb
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+U:\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.exe
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.pdb
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.exe
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.pdb
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+V:\Documents\My Documents\Programming\FinishedProjects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.exe
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.pdb
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.exe
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\bin\Release\DotNetBench.pdb
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+Z:\Documents\My Documents\Programming\Projects\Desktop Apps\DotNetBench\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.exe
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.pdb
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\bin\Release\DotNetBench.exe
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\bin\Release\DotNetBench.pdb
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.frmInfo.resources
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.frmMain.resources
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.Properties.Resources.resources
+C:\Documents and Settings\FireXware\Desktop\wk\DotNetBench\trunk\DotNetBench\obj\Release\DotNetBench.csproj.GenerateResource.Cache

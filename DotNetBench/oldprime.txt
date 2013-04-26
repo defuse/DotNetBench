@@ -1,0 +1,88 @@
+﻿        public event BenchmarkCompleteEvent Complete;
+
+        private volatile Thread[] threads;
+        private volatile int _jobsComplete;
+
+        private int _threadCount;
+        public int ThreadCount
+        {
+            get { return _threadCount; }
+            set { _threadCount = value; }
+        }
+
+        private bool _errorCheck;
+        public bool ErrorCheck
+        {
+            get { return _errorCheck; }
+            set { _errorCheck = value; }
+        }
+
+        public string TestName
+        {
+            get { return "Prime Numbers"; }
+        }
+        public void StartBenchmark(object info, int threadNum)
+        {
+ 
+        }
+
+        public object[] GetThreadInfo(int numThreads)
+        {
+            object[] info = new object[numThreads];
+            const int HIGHEST_PRIME = 10000000;
+            threads = new Thread[_threadCount];
+            int spread = HIGHEST_PRIME / _threadCount;
+            for (int i = 0; i < threads.Length; i++)
+            {
+                threads[i] = new Thread(new ParameterizedThreadStart(ComputePrimes));
+                object[] args = new object[2];
+                args[0] = spread;
+                args[1] = i;
+                object[i]
+                threads[i].Start(args);
+            }
+        }
+
+        public void JobComplete()
+        {
+            _jobsComplete++;
+            if (_jobsComplete == threads.Length)
+            {
+                if (Complete != null)
+                {
+                    BenchmarkCompleteEventArgs e = new BenchmarkCompleteEventArgs();
+                    e.BenchmarkName = TestName;
+                    e.Errors = false;
+                    Complete(this, e);
+                }
+            }
+        }
+
+        private void ComputePrimes(object args)
+        {
+            object[] splitArgs = (object[])args;
+            int toCalc = (int)splitArgs[0];
+            int threadNum = (int)splitArgs[1];
+            int start = toCalc * threadNum;
+            int end = start + toCalc;
+
+            List<int> primes = new List<int>(); //to hold our primes
+            for (int i = start; i <= end; i++)
+            {
+                bool isPrime = true;
+                for (int j = 2; j <= Math.Sqrt(i); j++)
+                {
+                    double x = (double)i / (double)j;
+                    int y = (int)(i / j);
+                    if (y == x)
+                    {
+                        isPrime = false;
+                        break;
+                    }
+                }
+                if(isPrime)
+                    primes.Add(i);
+            }
+            primes = null;
+            JobComplete();
+        }
